@@ -35,14 +35,14 @@ footer{
 	background-color: rgba(75, 233, 60, 0.8);
 	width: 80%;
 	height: 600px;
-	margin: 0 auto;
+	margin:0 auto;
 }
 
 .espaçamento{
 	width: 80%;
 	height: 10px;
 	background-color: rgba(32, 30, 30, 0.7);
-	margin: 0 auto;
+	margin: auto;
 }
 ul{
 	float: right;
@@ -56,9 +56,18 @@ li{
 	color: white;
 	display: inline-block;
 	padding: 15px;
-	
 }
-
+header a{
+	text-decoration: none;
+}
+a:link, a:visited{
+	color:white;
+}
+a:active, a:focus{
+	background-color: rgba(32, 30, 30, 0.9);
+	color:white;
+	padding: 15px;
+}
 *{
 	margin: 0;
 	padding: 0;
