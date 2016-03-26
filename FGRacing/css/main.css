@@ -45,7 +45,6 @@ footer{
 	margin: 0 auto;
 }
 ul{
-	display: inline-block;
 	float: right;
 	margin-top: 35px;
 	margin-right: 200;
@@ -57,11 +56,6 @@ li{
 	color: white;
 	display: inline-block;
 	padding: 15px;
-	
-}
-
-li:hover, li:active, li:focus{
-	color: rgba(75, 233, 60, 0.75);
 	
 }
 
