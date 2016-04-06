@@ -4,18 +4,22 @@ header{
 	position: fixed;
 	background-color: rgba(32, 30, 30, 0.7);
 }
-
+#espaco_menu{
+	width: 100%;
+	height: 85px;
+}
 #logo{
 	float: left;
-	margin-top: 20px;
-	margin-bottom: 5px;
-	margin-left: 180px;
+	margin-left: 160px;
+	margin-top: 10px;
 }
 
-#Contato{
+#contato{
 	width: 80%;
 	height: 700px;
 	margin: 0 auto;
+}
+#home{
 }
 
 footer{
@@ -25,7 +29,7 @@ footer{
 }
 
 .fundoClaro{
-	background-color: rgba(32, 30, 30, 0.3);
+	background-color: white;
 	width: 80%;
 	height: 600px;
 	margin: 0 auto;
@@ -38,7 +42,7 @@ footer{
 	margin:0 auto;
 }
 
-.espaçamento{
+.espacamento{
 	width: 80%;
 	height: 10px;
 	background-color: rgba(32, 30, 30, 0.7);
@@ -71,4 +75,11 @@ a:active, a:focus{
 *{
 	margin: 0;
 	padding: 0;
+}
+img{
+	max-width:100%;
+	height:auto;
+}
+body{
+	background-color: rgba(32, 30, 30, 0.7);
 }
