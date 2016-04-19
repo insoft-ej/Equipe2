@@ -9,6 +9,17 @@
 		<script src="js/plugins.js"></script>
 		<script type="text/javascript" src="js/smoothscroll.js"></script>
 		<script type="text/javascript"></script>
+        <script src="js/instafeed.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+			var Feed = new InstaFeed ({
+				get: 'user',
+				userId: '318313987',
+				limit: "10",
+				accessToken: '318313987.1677ed0.e596b2b342c1411292cf843b58e85ab2',
+				resolution: 'standard_resolution',
+			});
+			feed.run();	
+		</script>
 	</head>
 
 	<body>
@@ -29,7 +40,11 @@
 		<!-- Primeira Seção -->
 		<div id = "home" class= "fundoClaro" class="smoothScroll">
 			<a href="#home" class="smoothScroll"></a>
-		</div>
+            <div class="conteudo">
+            	<h2>Instagram</h2>
+                	<div id="instafeed"></div>
+            </div>
+        </div>
 		<div class = "espacamento"> </div>
 
 		<!-- Segunda Seção -->
