@@ -7,7 +7,7 @@ Repositorio do para o desenvolvimento do projeto do grupo 2
    
        /logo     - Imagens relacionadas à logomarca da FGRacing.
        
-       /bg       - Imagens relacionadas ao fundo das paginas do site.
+       /background       - Imagens relacionadas ao fundo das paginas do site.
        
        /social   - Imagens relacionadas as redes sociais da FGRacing. Ex: Facebook, Google+, Blogger.
        
