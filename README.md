@@ -18,3 +18,5 @@ Repositorio do para o desenvolvimento do projeto do grupo 2
    /style    - Todos os códigos CSS usados para dar estilo ao site.
    
    /script   - Todos os códigos JavaScript para adicionar funcionalidades interativas ao site.
+   
+   /body     - Códigos de cada pagina do site juntamente com seu arquivo principal index.html.
