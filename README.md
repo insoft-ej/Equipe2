@@ -19,4 +19,4 @@ Repositorio do para o desenvolvimento do projeto do grupo 2
    
    /script   - Todos os códigos JavaScript para adicionar funcionalidades interativas ao site.
    
-   /body     - Códigos de cada pagina do site juntamente com seu arquivo principal index.html.
+   /pages     - Códigos de cada pagina do site juntamente com seu arquivo principal index.html.
